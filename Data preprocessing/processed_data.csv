@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Department,Experience
+1,John,25.0,50000.0,IT,2
+2,Anna,30.0,60000.0,HR,5
+3,Peter,35.0,69000.0,Finance,8
+4,Linda,34.77777777777778,70000.0,IT,10
+5,James,40.0,80000.0,Finance,12
+6,Susan,29.0,55000.0,HR,4
+7,Tom,50.0,90000.0,IT,15
+8,Emma,27.0,69000.0,HR,3
+9,Robert,45.0,85000.0,Finance,14
+10,Olivia,32.0,62000.0,IT,6
